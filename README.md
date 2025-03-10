@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Quick Start
 ## Installation
 It's strongly recommended to setup a fresh virtual environment by typing
@@ -81,3 +82,6 @@ If you compare with, build on, or use aspects of the AI Feynman work, please cit
   year={2020}
 }
 ```
+=======
+# My-AI-Feynman
+>>>>>>> new-origin/main
