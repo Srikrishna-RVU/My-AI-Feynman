@@ -1,5 +1,5 @@
 import setuptools
-from numpy.distutils.core import Extension, setup
+from setuptools import setup, Extension
 
 sr1 = Extension(name='aifeynman._symbolic_regress1', sources=[
     'aifeynman/symbolic_regress1.f90'])
